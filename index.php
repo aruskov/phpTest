@@ -12,6 +12,6 @@ and open the template in the editor.
     <body>
         <?php
         echo "testing the php installation!";
-        ?>
+        ?> 
     </body>
 </html>
